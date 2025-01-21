@@ -1,5 +1,5 @@
 <section class="bg-blue-100">
-    <div class="max-w-3xl py-6 mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-3xl py-6 mx-auto px-4 sm:px-6 lg:px-8 pt-11">
         <h1 class="text-xl text-center font-borel text-blue-950 my-3">
             tentang farros
         </h1>
